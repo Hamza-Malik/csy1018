@@ -1,0 +1,290 @@
+*{
+    position: relative;
+    font-family: sans-serif;
+}
+body{
+    width: 1250px;
+    height:555px; 
+    
+}
+#front{
+    height: 150px;
+    width: 1340px;
+    background-color: black;
+}
+#logo{
+    height: 145px;
+    width: 225px;
+   background-color: black;
+   background-position: center;
+background-image: url(../images/theepa.gif);    
+    background-repeat: no-repeat;
+    float: left;
+}
+.glass{
+    border-bottom: 5px solid silver;
+}
+#mobile{
+    height: 200px;
+    width: 436px;
+    background-color: purple;
+    float: left;
+    background-image: url(../images/iphone-4-icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.8;
+}
+.faceb{
+     height: 200px;
+    width: 436px;
+    background-color: purple;
+    opacity: 0.8;
+    float: left;
+}
+#click{
+    text-align: center;
+    font-weight: bold;
+    margin-left: 240px;
+    
+}
+#adjust{
+    margin-left: 216px;
+    margin-top: 45px;
+}
+#heading{
+    height: 145px;
+    width: 150px;
+    float: left;
+     background-color: black;
+    color: white;
+    float: left;
+    font-size: 47px;
+}
+#email{
+     height: 200px;
+    width: 475px;
+    background-color: purple;
+    float: left;
+    background-image: url(../images/email.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.8;
+}
+#ph{
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    padding-top: 75px;
+    font-weight: bold;
+}
+#mail{
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    padding-top: 150px;
+    font-weight: bold;
+}
+#sp{
+    height: 145px;
+    width: 330px;
+    background-color: black;
+    float: right;
+ 
+}
+#about{
+    height: 45px;
+    width: 110px;
+    background-color: black;
+    float: left;
+    text-align: center;
+    color:gray;
+    padding-top: 100px;
+ 
+}
+#cv{
+    height: 45px;
+    width: 110px;
+    background-color: black;
+    float: left;
+    color: gray;
+    text-align: center;
+    padding-top: 100px;
+}
+#contact{
+    height: 45px;
+    width: 110px;
+    background-color: black;
+    float: left;
+    text-align: center;
+    padding-top: 100px;
+    color: red;
+
+}
+#contact:hover{
+    color: black;
+    border-bottom: 5px solid purple;
+}
+#cv:hover{
+    color: black;
+    border-bottom: 5px solid purple;
+}
+#about:hover{
+    color: black;
+    border-bottom: 5px solid purple;
+}
+#name{
+    font-weight: bold;
+    font-size: 27px;
+    padding-right: 20px;
+    
+}
+#sub{
+    width: 450px;
+    height: 50px;
+    font-size: 23px;
+}
+#subjectb{
+    height: 70px;
+    width: 840px;
+    float: left;
+    font-size: 23px;
+    font-weight: bold;
+    background-color: transparent;
+    margin-left: 500px;
+}
+#subject{
+    font-weight: bold;
+    font-size: 27px;
+}
+#message{
+    font-weight: bold;
+    font-size: 27px;
+}
+#mes{
+    resize: none;
+    height: 160px;
+    width: 430px;
+      font-weight: bold;
+    font-size: 27px;
+    
+}
+#adjst{
+    height: 170px;
+    width: 50px;
+    float: left;
+    background-color: pink;
+}
+#btn{
+     height: 50px;
+    width: 840px;
+    float: left;
+    font-size: 23px;
+    font-weight: bold;
+    background-color: transparent;
+    margin-left: 500px;
+}
+#entr{
+    width: 150px;
+    height: 40px;
+    font-weight: bolder;
+    margin-left: 600px;
+}
+#messageb{
+    height: 170px;
+    width: 840px;
+    float: left;
+    font-size: 23px;
+    font-weight: bold;
+    background-color: transparent;
+    margin-left: 500px;
+}
+#femail{
+    font-weight: bold;
+    font-size: 27px;
+    padding-right: 20px;
+}
+#emailb{
+    height: 70px;
+    width: 840px;
+    float: left;
+    font-size: 23px;
+    font-weight: bold;
+    background-color: transparent;
+    margin-left: 500px;
+}
+#eml{
+    width: 450px;
+    height: 50px;
+    font-size: 23px;
+}
+#nme{
+    width: 450px;
+    height: 50px;
+    font-size: 23px;
+}
+
+#msg{
+    height: 70px;
+    width: 840px;
+    float: left;
+    font-size: 23px;
+    font-weight: bold;
+    background-color: transparent;
+    margin-left: 500px;
+}
+#nameb{
+     height: 70px;
+    width: 840px;
+    float: left;
+    background-color: transparent;
+    margin-left: 500px;
+}
+
+#center3{
+    height: 500px;
+    width: 1350px;
+    float: left;
+    background-image: url(../images/back.jpg);
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+     border-bottom: 5px solid silver;
+}
+#info{
+     height: 500px;
+    width: 850px;
+    float: left;
+    background-color: #ffffff;
+}
+#txt{
+    font-size: 18px;
+    color: darkgray;
+    line-height: 32px;
+}
+#profile{
+    height: 500px;
+    width: 500px;
+    background-color: #ffffff;
+    float: left;
+}
+#write{
+    height: 100px;
+    width: 700px;
+    background-color: transparent;
+    color: darkorange;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 260px;
+    opacity: 0.7;
+    margin-left: 280px;
+}
+#end{
+    height: 200px;
+    width: 1350px;
+    float: left;
+    background-color: black;
+}
+
+
+
