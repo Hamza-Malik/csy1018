@@ -1,11 +1,12 @@
+
 *{
     position: relative;
     font-family: sans-serif;
 }
 body{
     width: 1250px;
-    height:555px; 
-    
+    height:555px;
+
 }
 #front{
     height: 150px;
@@ -17,7 +18,7 @@ body{
     width: 225px;
    background-color: black;
    background-position: center;
-background-image: url(../images/theepa.gif);    
+background-image: url(../images/theepa.gif);
     background-repeat: no-repeat;
     float: left;
 }
@@ -45,7 +46,7 @@ background-image: url(../images/theepa.gif);
     text-align: center;
     font-weight: bold;
     margin-left: 240px;
-    
+
 }
 #adjust{
     margin-left: 216px;
@@ -89,7 +90,7 @@ background-image: url(../images/theepa.gif);
     width: 330px;
     background-color: black;
     float: right;
- 
+
 }
 #about{
     height: 45px;
@@ -99,7 +100,7 @@ background-image: url(../images/theepa.gif);
     text-align: center;
     color:gray;
     padding-top: 100px;
- 
+
 }
 #cv{
     height: 45px;
@@ -136,7 +137,7 @@ background-image: url(../images/theepa.gif);
     font-weight: bold;
     font-size: 27px;
     padding-right: 20px;
-    
+
 }
 #sub{
     width: 450px;
@@ -159,14 +160,15 @@ background-image: url(../images/theepa.gif);
 #message{
     font-weight: bold;
     font-size: 27px;
+
 }
 #mes{
     resize: none;
     height: 160px;
     width: 430px;
-      font-weight: bold;
+    font-weight: bold;
     font-size: 27px;
-    
+
 }
 #adjst{
     height: 170px;
@@ -285,6 +287,3 @@ background-image: url(../images/theepa.gif);
     float: left;
     background-color: black;
 }
-
-
-
