@@ -1,11 +1,18 @@
+@charset "utf-8";
+/*Hamza Mehmood
+    15418599
+*/
+
 *{
     position: relative;
     font-family: sans-serif;
 }
 body{
     width: 1250px;
-    height:555px; 
-    
+    height:555px;
+    margin-left: 5%;
+
+
 }
 #front{
     height: 150px;
@@ -17,7 +24,7 @@ body{
     width: 225px;
    background-color: black;
    background-position: center;
-background-image: url(../images/theepa.gif);    
+background-image: url(../images/theepa.gif);
     background-repeat: no-repeat;
     float: left;
 }
@@ -45,7 +52,7 @@ background-image: url(../images/theepa.gif);
     text-align: center;
     font-weight: bold;
     margin-left: 240px;
-    
+
 }
 #adjust{
     margin-left: 216px;
@@ -89,7 +96,7 @@ background-image: url(../images/theepa.gif);
     width: 330px;
     background-color: black;
     float: right;
- 
+
 }
 #about{
     height: 45px;
@@ -99,7 +106,7 @@ background-image: url(../images/theepa.gif);
     text-align: center;
     color:gray;
     padding-top: 100px;
- 
+
 }
 #cv{
     height: 45px;
@@ -185,4 +192,3 @@ background-image: url(../images/theepa.gif);
     float: left;
     background-color: black;
 }
-

@@ -1,3 +1,8 @@
+@charset "utf-8";
+/*Hamza Mehmood
+    15418599
+*/
+
 
 *{
     position: relative;
@@ -6,6 +11,8 @@
 body{
     width: 1250px;
     height:555px;
+    margin-left: 5%;
+
 
 }
 #front{
